@@ -1,4 +1,4 @@
-# genai-app-boilerplate
+# conversational_chat_bot
 
 - App used as boilerplate & clone the app modify as per your requiremnt.
 
